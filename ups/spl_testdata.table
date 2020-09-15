@@ -1,0 +1,8 @@
+setupRequired(afwdata)
+setupRequired(testdata_cfht)
+setupRequired(testdata_deblender)
+setupRequired(testdata_decam)
+setupRequired(testdata_jointcal)
+setupRequired(testdata_subaru)
+setupRequired(ap_pipe_testdata)
+setupRequired(ap_verify_testdata)
